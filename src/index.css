@@ -1,0 +1,38 @@
+/* Оформлення випадаючого списку порід */
+.breed-select {
+  margin-bottom: 20px;
+  padding: 10px;
+  font-size: 25px;
+}
+
+/* Оформлення блоку з завантажувачем */
+.loader {
+  margin-bottom: 20px;
+  padding: 10px;
+  font-size: 20px;
+  color: blue;
+}
+
+/* Оформлення блоку з повідомленням про помилку */
+.error {
+  margin-bottom: 20px;
+  padding: 10px;
+  font-size: 30px;
+  color: red;
+}
+
+/* Оформлення блоку з інформацією про кота */
+.cat-info {
+  margin-bottom: 20px;
+  width: 500px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+/* Оформлення зображення кота */
+img {
+  display: block;
+  width: 500px;
+  height: auto;
+  margin-bottom: 10px;
+}
